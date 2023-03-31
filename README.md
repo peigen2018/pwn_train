@@ -3,7 +3,7 @@
 
 ## 栈溢出
 ### ret2text
- [ret2text 代码](code\ret2text\ret2text.c)
+ [ret2text 代码](code/ret2text/ret2text.c)
 
 ## 堆溢出
 ## Uninitialized Memory
