@@ -17,5 +17,6 @@ void vulnerable()
 int main(int argc, char **argv)
 {
   vulnerable();
+  success();
   return 0;
 }
